@@ -26,11 +26,50 @@ Prepare yourself for a mix of fun, challenge, and mystery as you guide Molly thr
 
 ---
 
-## 💻 Installation / Running the Game
+## 📥 Download Now
 
-To play the game locally or contribute to its development, follow these steps:
+Play or download the game here:  
+👉 [https://pipothai.itch.io/mollys-adventure-maze](https://pipothai.itch.io/mollys-adventure-maze)
 
-1. **Clone the repository**
+> Free to play. No installation required for browser version!
 
-```bash
-git clone https://github.com/your-username/mollys-adventure-maze.git
+---
+
+## 🛠️ Built With
+
+- [Godot Engine 4.2](https://godotengine.org/) — Game engine  
+- [Dialogic 2](https://dialogic.org/) — Narrative and dialogue system  
+- GDScript — Programming language used
+
+---
+
+## 👤 Developer
+
+This game was developed by **Michael Ch.**  
+- YouTube: [Michael Ch. Channel](https://youtube.com/@michael_ch.?si=zhERcgZUq3dH8ozm)  
+- Discord: [Join the Community](https://discord.gg/845CRb68BY)
+
+---
+
+## ⚠️ Notes & Credits
+
+- Created in just **3 days** under tight constraints ⏳💸  
+- Uses **AI-generated visuals** (license-free)  
+- Soundtrack from YouTube's **Free Audio Library** 🎵  
+- If you do not support AI-generated art, you may choose not to play. We respect your choice. 🙏
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**  
+Feel free to use, modify, and share — with proper credit.
+
+---
+
+## 🌟 Thank You!
+
+Thank you for playing **Molly’s Adventure Maze**!  
+Will you be the one to help Molly escape?
+
+---
