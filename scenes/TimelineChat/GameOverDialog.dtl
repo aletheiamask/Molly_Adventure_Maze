@@ -1,0 +1,5 @@
+[signal arg="stop"]
+[style name="deadStyle"]
+Game Over
+- Restart
+	[signal arg="Restart_Game"]

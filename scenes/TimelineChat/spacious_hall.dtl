@@ -1,0 +1,5 @@
+[signal arg="stop"]
+unit_test_character: The room feels enormous, its emptiness almost suffocating.
+unit_test_character: The silence is unsettling. In the center of the room, a single flower vase stands alone, almost too perfect in the vastness.
+unit_test_character: I can't help but wonder why it’s here...
+[signal arg="run"]

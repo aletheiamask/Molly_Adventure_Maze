@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://bsxcw6mh3w7yu"
+path="res://.godot/imported/Molly.aseprite-c428a88b33a1b4feee49ecbaea280f9c.res"
+
+[deps]
+
+source_file="res://assets/sprites/aseprite/Molly.aseprite"
+dest_files=["res://.godot/imported/Molly.aseprite-c428a88b33a1b4feee49ecbaea280f9c.res"]
+
+[params]
+

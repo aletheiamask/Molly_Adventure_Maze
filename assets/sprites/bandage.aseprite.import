@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://dm22uvuoh3ubm"
+path="res://.godot/imported/bandage.aseprite-e674287806e7c24c4e8e09c6638628ce.res"
+
+[deps]
+
+source_file="res://assets/sprites/bandage.aseprite"
+dest_files=["res://.godot/imported/bandage.aseprite-e674287806e7c24c4e8e09c6638628ce.res"]
+
+[params]
+

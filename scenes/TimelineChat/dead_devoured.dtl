@@ -1,0 +1,4 @@
+[signal arg="stop"]
+unit_test_character: "Ripped apart by the hunter's claws."
+[signal arg="run"]
+[end_timeline]

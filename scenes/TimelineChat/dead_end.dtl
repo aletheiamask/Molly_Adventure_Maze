@@ -1,0 +1,7 @@
+[style name="MyStyle"]
+[signal arg="stop"]
+join character1 leftmost
+character1: ดูเหมือนว่าหนทางข้างหน้าจะถูกกีดขวางอยู่ คุณแน่ใจหรือว่าจะไปต่อ?
+leave character1
+[signal arg="run"]
+[end_timeline]

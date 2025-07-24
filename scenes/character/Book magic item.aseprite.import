@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://d3ly7lcwcagre"
+path="res://.godot/imported/Book magic item.aseprite-5877ebd50583351a8763388a47e8ee64.res"
+
+[deps]
+
+source_file="res://scenes/character/Book magic item.aseprite"
+dest_files=["res://.godot/imported/Book magic item.aseprite-5877ebd50583351a8763388a47e8ee64.res"]
+
+[params]
+

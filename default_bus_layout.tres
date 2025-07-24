@@ -1,0 +1,20 @@
+[gd_resource type="AudioBusLayout" load_steps=3 format=3 uid="uid://tuqab0wqjeiw"]
+
+[sub_resource type="AudioEffectCapture" id="AudioEffectCapture_j4gux"]
+resource_name = "Capture"
+
+[sub_resource type="AudioEffectCapture" id="AudioEffectCapture_al46x"]
+resource_name = "Capture"
+
+[resource]
+bus/0/volume_db = -3.32444
+bus/0/effect/0/effect = SubResource("AudioEffectCapture_j4gux")
+bus/0/effect/0/enabled = false
+bus/0/effect/1/effect = SubResource("AudioEffectCapture_al46x")
+bus/0/effect/1/enabled = false
+bus/1/name = &"New Bus"
+bus/1/solo = false
+bus/1/mute = false
+bus/1/bypass_fx = false
+bus/1/volume_db = 0.0
+bus/1/send = &"Master"

@@ -1,0 +1,4 @@
+[style name="MyStyle"]
+!! YOU WIN !!
+- play again
+	[signal arg="Restart_Game"]

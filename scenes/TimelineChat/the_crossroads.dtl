@@ -1,0 +1,5 @@
+[signal arg="stop"]
+unit_test_character: "มันเงียบเกินไป... มืดเกินไป..."
+unit_test_character: เดินช้าๆ มองดูทางข้างหน้า
+unit_test_character: "ถ้าฉันเลือกทางผิดล่ะ? ฉันจะกลับไปได้ไหม?"
+[signal arg="run"]

@@ -1,0 +1,5 @@
+[style name="MyStyle"]
+join character1 leftmost
+character1: คุณต้องเก็บรวบรวม 6 ไอเทม
+character1: ทางออกข้างหลังจึงจะเปิดออก
+leave 

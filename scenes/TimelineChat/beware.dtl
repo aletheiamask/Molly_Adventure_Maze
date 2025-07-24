@@ -1,0 +1,15 @@
+[signal arg="stop"]
+[style name="MyStyle"]
+unit_test_character: ฉันได้กลิ่นบางอย่างที่เหม็นฉุน กลิ่นเน่าที่ลอยมาในอากาศ
+unit_test_character: แล้วฉันก็ได้ยินมัน—เสียงแหลมและเสียงดังเอี๊ยดๆ เหมือนกับกรงเล็บเล็กๆ ขูดไปมา ก้องอยู่ในความมืด
+join character1 leftmost
+character1: What should you do next?
+- Continue exploring the darkness.
+- Turn back and leave the area.
+	leave character1
+	[style name="deadStyle"]
+	Game Over
+	- Restart
+		[signal arg="Restart_Game"]
+[signal arg="run"]
+[end_timeline]

@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://c404rgi0c7n12"]
+
+[ext_resource type="Script" uid="uid://cprq7c1ssrivg" path="res://scenes/TimelineChat/DialogStarter.gd" id="1_ll3ni"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m50vo"]
+
+[node name="DialogStarter" type="Area2D"]
+script = ExtResource("1_ll3ni")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(5, 5)
+shape = SubResource("RectangleShape2D_m50vo")
+debug_color = Color(0, 1, 1, 1)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="body_exited" from="." to="." method="_on_body_exited"]
