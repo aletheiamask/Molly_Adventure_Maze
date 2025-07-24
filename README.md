@@ -1,55 +1,36 @@
----
+# 🧙‍♀️ Molly's Adventure Maze
 
-# 🎮 Inside Jerry: Beta 1.0.1
-
-### *A Story-Driven Game About Dreams, Loneliness, and the Fragile Mind*
+### A Magical Maze Puzzle Game with Challenging Quizzes and Hidden Mysteries! ✨
 
 ---
 
-## 🌙 About the Game
+## 🎮 About the Game
 
-**Inside Jerry** tells the story of a boy trapped in a dream world — a final gift from his creator to protect his fragile mind. 💔
+Welcome to **Molly's Adventure Maze**, a thrilling puzzle-adventure game where you take on the role of Molly, a young magician trapped inside a mysterious labyrinth filled with magic and secrets.
 
-Although Jerry’s body may be alive, his spirit is sealed away by something unknown.
-No matter how his form may change, his heart remains asleep within…
+Your goal is to help Molly find her way out by collecting **6 magical items**, each guarded by a challenging question. To earn each item, you must answer its question correctly. But beware — one wrong answer means starting your journey all over again!
 
-This is an interactive **visual novel** where players make choices that shape the outcome of Jerry’s story.
-
----
-
-## 🔧 Requirements
-
-* Requires **Godot 4.2** or later
-* Built using [Dialogic 2](https://dialogic.org/)
+The maze holds many secrets and hidden dangers you must be prepared for. Most questions are in **Thai**, with some English keywords sprinkled throughout, making this a perfect game for bilingual puzzle enthusiasts.
 
 ---
 
-## 📁 Download
+## 🕹️ How to Play
 
-* 🎮 [Download from itch.io](https://pipothai.itch.io/inside-jerry-bata101)
+- Use the arrow keys or WASD to navigate through the maze.
+- When you find a magical item, interact with it to answer a quiz question.
+- Answer correctly to obtain the item and progress.
+- Answer incorrectly, and you'll be sent back to the start of the maze.
+- Remember: The exit door may be behind you when the game begins — don’t forget to look back!
 
----
-
-## ℹ️ Additional Info
-
-* Developed by **Michael Ch.** (YouTube Channel)
-* Created in just **3 days**, under tight time and budget constraints ⏳💸
-* Uses **AI-generated images** (license-free) and music from **YouTube's Audio Library** 🎨🎵
-* *If you do not support AI-generated content, you may choose not to play the game — we respect your decision.* 🙏
+Prepare yourself for a mix of fun, challenge, and mystery as you guide Molly through the maze.
 
 ---
 
-## 💬 Follow Development
+## 💻 Installation / Running the Game
 
-📢 Join our Discord: [https://discord.gg/845CRb68BY](https://discord.gg/845CRb68BY)
+To play the game locally or contribute to its development, follow these steps:
 
----
+1. **Clone the repository**
 
-### 🖤 Thank you for your interest in *Inside Jerry: Beta 1.0.1*.
-
-*Every choice matters, even in a dream...*
-
----
-
-หากต้องการเวอร์ชันภาษาไทยเต็ม ๆ หรือเวอร์ชัน Markdown พร้อมกดวางใน GitHub ได้เลย ก็บอกได้ครับ!
-
+```bash
+git clone https://github.com/your-username/mollys-adventure-maze.git
